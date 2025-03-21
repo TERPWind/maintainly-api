@@ -1,0 +1,174 @@
+Site,Part Name,Type,Model,Internal Reference,Price,Quantity,Par Level,Critical Level,Alert
+Sheffield Parts Co. - TERP,"SHC XMP 320 OIL, MOBILGEAR SYNTHETIC OIL",Oil,50-004211-01,CN05-03-01,80.55,-129.0,55.0,30.0,URGENT: Critically Low Stock!
+Sheffield Parts Co. - TERP,"GEAR OIL, SYNTHETIC, A320, OPTIGEAR",Oil,50-002901-01,CN05-01-01,59.79,-38.0,55.0,30.0,URGENT: Critically Low Stock!
+Sheffield Parts Co. - TERP,"Pitch DC-PCS, PCB BCM w/VSEN",Hub_Rotor,10-011192-03,CL19-01-01B,2616.90,-3.0,5.0,3.0,URGENT: Critically Low Stock!
+Sheffield Parts Co. - TERP,"GEAR PUMP, 1 GPM, HPU Oil Pump",HPU,50-002615-02,CL18-05-01A,299.89,-2.0,4.0,3.0,URGENT: Critically Low Stock!
+Sheffield Parts Co. - TERP,Lightning Rod,Nacelle,50-002093-02,CL20-04-06A,345.53,-1.0,2.0,2.0,URGENT: Critically Low Stock!
+Sheffield Parts Co. - TERP,"Rectifier, Bridge, 120  Xantrex spare",DTA,50-166802-01,CL13-02-73,14.44,-1.0,1.0,1.0,URGENT: Critically Low Stock!
+Sheffield Parts Co. - TERP,"AC LINE INDUCTOR, 800UH, 580A, 60HZ",DTA,20-138171-01,CL13-02-09,6901.82,0.0,1.0,1.0,URGENT: Critically Low Stock!
+Sheffield Parts Co. - TERP,"Accelerometer, Low Frequency, 500 mV/g",TCU_Control,50-011765-01,CL21-03-06,173.39,0.0,2.0,2.0,URGENT: Critically Low Stock!
+Sheffield Parts Co. - TERP,"ANALOG MODULE, ISOLATED",TCU_Control,50-002225-01,CL21-05-10,91.83,0.0,4.0,4.0,URGENT: Critically Low Stock!
+Sheffield Parts Co. - TERP,"Breaker, Circuit, 1 Pole, 20 Amp",TCU_Control,50-034641-01,CL21-05-66,15.29,0.0,1.0,1.0,URGENT: Critically Low Stock!
+Sheffield Parts Co. - TERP,Cable M-F 2m 22-20AWG Shld Flex St Sn Cu,Wire,50-004050-01,CL11-03-14,3.57,0.0,1.0,1.0,URGENT: Critically Low Stock!
+Sheffield Parts Co. - TERP,"CAP,CER,.15UF,1000V Xantrex spare",DTA,50-166793-01,CL13-02-95,1.15,0.0,1.0,1.0,URGENT: Critically Low Stock!
+Sheffield Parts Co. - TERP,"CBL ASY, EMERGENCY POWER, BLADE 2, 1.1M",Hub_Rotor,20-093759-01,CL19-10-17,233.01,0.0,1.0,1.0,URGENT: Critically Low Stock!
+Sheffield Parts Co. - TERP,"CBL ASY, EMERGENCY POWER, BLADE 3, 1.3M",Hub_Rotor,20-093760-01,CL19-10-18,249.19,0.0,1.0,1.0,URGENT: Critically Low Stock!
+Sheffield Parts Co. - TERP,"Cbl Asy, Limit Switch XOT, Blade 3, 5.3m",Hub_Rotor,20-093093-01,CL19-10-15,792.25,0.0,2.0,2.0,URGENT: Critically Low Stock!
+Sheffield Parts Co. - TERP,Cbl-Asy M/F RS-233 Straight Thru 3' RoHS,Electrical_General,50-144724-01,CL10-08-04,1.64,0.0,1.0,1.0,URGENT: Critically Low Stock!
+Sheffield Parts Co. - TERP,CIRCUIT BREAKER 2500A 3 POLE W/TRIP UNIT,PDP,50-060154-01,CL22-04-16,3140.33,0.0,1.0,1.0,URGENT: Critically Low Stock!
+Sheffield Parts Co. - TERP,"CONTACTOR, 3 POLE, 750 AMP",DTA,50-010285-01,CL13-02-67,4494.00,0.0,1.0,1.0,URGENT: Critically Low Stock!
+Sheffield Parts Co. - TERP,Converter TCF-90-M RS-23 2 - Fiber Optic,Comm_System,50-144725-01,CL09-02-08,322.75,0.0,1.0,1.0,URGENT: Critically Low Stock!
+Sheffield Parts Co. - TERP,Diode Rectifier w/ Heatsink Asy,Generator,10-003025-04,CL16-02-07,2367.32,0.0,2.0,2.0,URGENT: Critically Low Stock!
+Sheffield Parts Co. - TERP,"E- Shim Set, Gearbox Mnt, Forward Foot",Gearbox,20-016042-02,CL15-08-08A,81.17,0.0,1.0,1.0,URGENT: Critically Low Stock!
+Sheffield Parts Co. - TERP,"Fan Motor, 1 HP Leeson, Xantrex GCU",DTA,LEESON 112626.00,CL13-02-07,304.33,0.0,4.0,3.0,URGENT: Critically Low Stock!
+Sheffield Parts Co. - TERP,"Fi Opt Cable, 2 Conductor, 10m",Comm_System,10-136787-01,CL09-02-03,30.59,0.0,1.0,1.0,URGENT: Critically Low Stock!
+Sheffield Parts Co. - TERP,FUSE 40A 690VAC 22x58 Xantrex spare,DTA,50-166788-01,CL13-02-94,13.39,0.0,3.0,3.0,URGENT: Critically Low Stock!
+Sheffield Parts Co. - TERP,"Fuse link, 40 amp, 690 VAC",DTA,50-010284-02,CL13-02-77A,3.02,0.0,3.0,3.0,URGENT: Critically Low Stock!
+Sheffield Parts Co. - TERP,"Fuse, 500V AC 5 X 20mm, Time-Lag",Tower,50-144224-01,CL23-06-23,3.26,0.0,5.0,5.0,URGENT: Critically Low Stock!
+Sheffield Parts Co. - TERP,"Fuse, Small Dim, 250V, 2A, RYO Board",TCU_Control,50-176332-01,CL21-05-75,6.57,0.0,10.0,5.0,URGENT: Critically Low Stock!
+Sheffield Parts Co. - TERP,"GEARBOX, DRIVE, PITCH, 1800",Hub_Rotor,20-002032-01,CL19-05-01,6937.03,0.0,2.0,2.0,URGENT: Critically Low Stock!
+Sheffield Parts Co. - TERP,"Gearbox, Drive, Yaw",Yaw_System,20-002049-03,CL24-04-01B,13816.15,0.0,1.0,1.0,URGENT: Critically Low Stock!
+Sheffield Parts Co. - TERP,Generator Air Filter Media,Filters,50-013697-01,CN03-01-02,0.92,0.0,45.0,24.0,URGENT: Critically Low Stock!
+Sheffield Parts Co. - TERP,"Grease, Open Gear Teeth, Ceplattyn 300",Grease_Solvent,50-015319-01,CN04-03-03,7.20,0.0,70.0,25.0,URGENT: Critically Low Stock!
+Sheffield Parts Co. - TERP,"High Speed Cartridge Asy, Offset Flex 65mm",Gearbox,10-133328-03,CL15-03-01B,5322.42,0.0,1.0,1.0,URGENT: Critically Low Stock!
+Sheffield Parts Co. - TERP,"Hose Assembly, Pump Output",Gearbox,10-012985-02,CL15-04-04A,135.81,0.0,1.0,1.0,URGENT: Critically Low Stock!
+Sheffield Parts Co. - TERP,"Hose Line, Park Brk-Rotor Lock Manifold",HPU,20-014732-01,CL18-02-09,13.04,0.0,1.0,1.0,URGENT: Critically Low Stock!
+Sheffield Parts Co. - TERP,Light Industrial 70W 120V High Press. Na,Tower,50-003414-01,CL23-05-03,294.91,0.0,4.0,4.0,URGENT: Critically Low Stock!
+Sheffield Parts Co. - TERP,"Limit Switch Operating Head, Wobble",Tower,50-004055-01,CL23-06-04,25.87,0.0,1.0,1.0,URGENT: Critically Low Stock!
+Sheffield Parts Co. - TERP,"Limit Switch Receptacle, 2 SPDT, E50RB20",Tower,50-004054-01,CL23-06-03,9.03,0.0,1.0,1.0,URGENT: Critically Low Stock!
+Sheffield Parts Co. - TERP,"Matrix Assy,1200A,No L/R,XAN INV,Redes",DTA,10-193108-01,CL13-02-06,7376.24,0.0,4.0,3.0,URGENT: Critically Low Stock!
+Sheffield Parts Co. - TERP,"Nacelle Hatch, Locking Handle Left",Nacelle,50-302777-01,CL20-08-04,8.56,0.0,2.0,2.0,URGENT: Critically Low Stock!
+Sheffield Parts Co. - TERP,"Nacelle Hatch, Locking Handle Right",Nacelle,50-302778-01,CL20-08-05,8.93,0.0,4.0,2.0,URGENT: Critically Low Stock!
+Sheffield Parts Co. - TERP,"Nacelle Hatch, Non-Locking Handle Left",Nacelle,50-302773-01,CL20-08-10,58.06,0.0,2.0,2.0,URGENT: Critically Low Stock!
+Sheffield Parts Co. - TERP,"Nacelle Hatch, Non-Locking Handle Right",Nacelle,50-302774-01,CL20-08-11,58.06,0.0,4.0,2.0,URGENT: Critically Low Stock!
+Sheffield Parts Co. - TERP,"OIL PUMP ASSEMBLY, GEARBOX",Gearbox,10-056867-01,CL15-02-01,4038.96,0.0,2.0,1.0,URGENT: Critically Low Stock!
+Sheffield Parts Co. - TERP,"PCB Asy, Complete Relay Output Board",TCU_Control,10-002216-03,CL21-05-01B,1155.73,0.0,4.0,2.0,URGENT: Critically Low Stock!
+Sheffield Parts Co. - TERP,"PCB Asy, PDM, Power Distribution Module",DTA,10-110916-01,CL13-03-148,249.70,0.0,1.0,1.0,URGENT: Critically Low Stock!
+Sheffield Parts Co. - TERP,"Pitch DC-PCS, XBD NON-MV3, Molex",Hub_Rotor,20-300236-01,CL19-04-49,3398.95,0.0,6.0,3.0,URGENT: Critically Low Stock!
+Sheffield Parts Co. - TERP,"Relay, F6, Avanti Service Lift",Tower,50-176058-01,CL23-06-22,178.34,0.0,2.0,1.0,URGENT: Critically Low Stock!
+Sheffield Parts Co. - TERP,"SPD STRIKESORB 40-B, 240Vn, 140kA SURGE",PDP,50-034691-01,CL22-04-40,108.80,0.0,1.0,1.0,URGENT: Critically Low Stock!
+Sheffield Parts Co. - TERP,"Steering Transformer, Avanti Serv LIft",Tower,50-012173-01,CL23-06-18,557.82,0.0,1.0,1.0,URGENT: Critically Low Stock!
+Sheffield Parts Co. - TERP,Thread Locking Loctite 648,Adhesive,50-011247-01,CN01-02-03,70.30,0.0,1.0,1.0,URGENT: Critically Low Stock!
+Sheffield Parts Co. - TERP,"TVSS-Line Filter Asy, TPM",Hub_Rotor,20-093571-01,CL19-04-44,1080.98,0.0,1.0,1.0,URGENT: Critically Low Stock!
+Sheffield Parts Co. - TERP,"VIBSW Weight, Limit Switch",Nacelle,20-004057-01,CL20-09-05,1.33,0.0,1.0,1.0,URGENT: Critically Low Stock!
+Sheffield Parts Co. - TERP,"VZbilith Grease, SHC 460",Grease_Solvent,50-004212-01,CN04-03-02,0.07,0.0,11700.0,7800.0,URGENT: Critically Low Stock!
+Sheffield Parts Co. - TERP,"WireTrm,1/4Fst-F,1.5-2.5m/#16-14,F-Ins",Electrical_General,50-004295-01,CL10-03-19,0.10,0.0,50.0,50.0,URGENT: Critically Low Stock!
+Sheffield Parts Co. - TERP,"WireTrm,1/4Fst-F,4-6m/#12-10,F-Ins",Electrical_General,50-004296-01,CL10-03-20,0.12,0.0,50.0,50.0,URGENT: Critically Low Stock!
+Sheffield Parts Co. - TERP,"WireTrm,Fer,1.5m/#16,Ins,L=10",Electrical_General,50-018037-01,CL10-03-27,0.03,0.0,50.0,50.0,URGENT: Critically Low Stock!
+Sheffield Parts Co. - TERP,"WireTrm,Fer,2.5m/#14,Ins,L=12",Electrical_General,50-003839-01,CL10-03-02,0.03,0.0,125.0,125.0,URGENT: Critically Low Stock!
+Sheffield Parts Co. - TERP,"WireTrm,Fer,4m/#12,Ins,L=12",Electrical_General,50-003840-01,CL10-03-03,0.03,0.0,125.0,125.0,URGENT: Critically Low Stock!
+Sheffield Parts Co. - TERP,"WireTrm,FerTw,1m/#18,Ins,L=8",Electrical_General,50-019402-01,CL10-03-28,0.04,0.0,50.0,50.0,URGENT: Critically Low Stock!
+Sheffield Parts Co. - TERP,"WireTrm,Ring,0.5-1m/#22-18,3m/#6s,Ins",Electrical_General,50-004285-01,CL10-03-11,0.08,0.0,50.0,50.0,URGENT: Critically Low Stock!
+Sheffield Parts Co. - TERP,"WireTrm,Ring,0.5-1m/#22-18,4m/#8s,Ins",Electrical_General,50-003847-01,CL10-03-10,0.08,0.0,50.0,50.0,URGENT: Critically Low Stock!
+Sheffield Parts Co. - TERP,"WireTrm,Ring,0.5-1m/#22-18,6m/.25s,Ins",Electrical_General,50-004290-01,CL10-03-16,0.10,0.0,50.0,50.0,URGENT: Critically Low Stock!
+Sheffield Parts Co. - TERP,"WireTrm,Ring,4-6m/#12-10,12m/.5s,Ins",Electrical_General,50-004929-01,CL10-03-22,0.24,0.0,50.0,50.0,URGENT: Critically Low Stock!
+Sheffield Parts Co. - TERP,"WireTrm,Ring,4-6m/#12-10,3m/#6s,Ins",Electrical_General,50-004287-01,CL10-03-13,0.10,0.0,50.0,50.0,URGENT: Critically Low Stock!
+Sheffield Parts Co. - TERP,"WireTrm,Ring,4-6m/#12-10,5m/#10s,Ins",Electrical_General,50-004928-01,CL10-03-21,0.05,0.0,50.0,50.0,URGENT: Critically Low Stock!
+Sheffield Parts Co. - TERP,"WireTrm,Ring,4-6m/#12-10,6m/.25s,Ins",Electrical_General,50-004288-01,CL10-03-14,0.13,0.0,50.0,50.0,URGENT: Critically Low Stock!
+Sheffield Parts Co. - TERP,XFMR 3 OUTS 480V/3PH 240V/3PH 120V/1PH,PDP,50-003163-01,CL22-04-07,1132.36,0.0,1.0,1.0,URGENT: Critically Low Stock!
+Sheffield Parts Co. - TERP,"XFMR, 5kVA, 690V/240V, Rockwell PDP",PDP,50-120131-01,CL22-04-42,207.40,0.0,1.0,1.0,URGENT: Critically Low Stock!
+Sheffield Parts Co. - TERP,"XFMR, 5kVA, 690V/240V, Stran PDP",PDP,50-120132-01,CL22-04-43,188.81,0.0,2.0,2.0,URGENT: Critically Low Stock!
+Sheffield Parts Co. - TERP,"100psi Switch, Rotor Lock Manifold",HPU,50-002647-02,CL18-03-12A,49.29,1.0,1.0,1.0,URGENT: Critically Low Stock!
+Sheffield Parts Co. - TERP,"Aux Contact Block, Standard, Side Mount",Electrical_General,50-010276-01,CL10-07-01,7.10,1.0,1.0,1.0,URGENT: Critically Low Stock!
+Sheffield Parts Co. - TERP,"Back Up Board, 4.2 Farad Version, Asy",TCU_Control,10-005582-01,CL21-05-04,1233.98,1.0,2.0,2.0,URGENT: Critically Low Stock!
+Sheffield Parts Co. - TERP,"Barrel Nut, M36X4",Hardware_General,20-145097-01,CL12-05-01,34.66,1.0,1.0,1.0,URGENT: Critically Low Stock!
+Sheffield Parts Co. - TERP,"Brake Spring, Harrington 2 Ton, Single Speed Motor",Nacelle,50-126041-01,CL20-03-29,3.17,1.0,1.0,1.0,URGENT: Critically Low Stock!
+Sheffield Parts Co. - TERP,"Breaker, Circuit, 1 Pole, 4 Amp",TCU_Control,50-034637-01,CL21-05-64,15.09,1.0,1.0,1.0,URGENT: Critically Low Stock!
+Sheffield Parts Co. - TERP,"Breaker, Supp Circuit, 1 Pole, 10 Amp",Electrical_General,50-034652-01,CL10-04-18,6.78,1.0,1.0,1.0,URGENT: Critically Low Stock!
+Sheffield Parts Co. - TERP,"Breaker, Supp Circuit, 1 Pole, 4 Amp",TCU_Control,50-034649-01,CL21-05-69,6.68,1.0,1.0,1.0,URGENT: Critically Low Stock!
+Sheffield Parts Co. - TERP,"Bulkhead Connector Asy, Motor Power",Hub_Rotor,10-011175-01,CL19-02-01,102.74,1.0,1.0,1.0,URGENT: Critically Low Stock!
+Sheffield Parts Co. - TERP,"Bumper, Harrington 2 Ton, Single Speed Motor",Nacelle,50-126049-01,CL20-03-30,8.35,1.0,1.0,1.0,URGENT: Critically Low Stock!
+Sheffield Parts Co. - TERP,"CABLE ASSY, HARNESS, DRIVER BRD XANTREX",DTA,20-166841-01,CL13-02-18,80.18,1.0,1.0,1.0,URGENT: Critically Low Stock!
+Sheffield Parts Co. - TERP,"Cable Asy, PowerDC, Gen1- Negative",Generator,10-002373-01,CL16-03-02,349.03,1.0,1.0,1.0,URGENT: Critically Low Stock!
+Sheffield Parts Co. - TERP,"CABLE ASY, POWERDC, GEN1+ POSITIVE",Generator,10-002372-01,CL16-03-01,401.82,1.0,1.0,1.0,URGENT: Critically Low Stock!
+Sheffield Parts Co. - TERP,"Cable Asy, PowerDC, Gen2+ Positive",Generator,10-002374-01,CL16-03-03,365.39,1.0,1.0,1.0,URGENT: Critically Low Stock!
+Sheffield Parts Co. - TERP,"Cable Asy, PowerDC, Gen4- Negative",Generator,10-002379-01,CL16-03-06,302.84,1.0,1.0,1.0,URGENT: Critically Low Stock!
+Sheffield Parts Co. - TERP,"Cable Asy, PowerDC, Gen4+ Positive",Generator,10-002378-01,CL16-03-05,302.32,1.0,1.0,1.0,URGENT: Critically Low Stock!
+Sheffield Parts Co. - TERP,"CBL ASY, SERVO MOTOR CABLE BLADE 3, 3.7",Hub_Rotor,20-093086-01,CL19-10-09,1057.15,1.0,1.0,1.0,URGENT: Critically Low Stock!
+Sheffield Parts Co. - TERP,"Cbl Hrnss Servo Motor Armature Blade 1, Rev 1",Hub_Rotor,20-011291-02,CL19-10-04A,27.50,1.0,2.0,2.0,URGENT: Critically Low Stock!
+Sheffield Parts Co. - TERP,"Circuit Breaker, 125A, H-Frame, 30-39 kA",PDP,50-002829-01,CL22-04-05,180.92,1.0,1.0,1.0,URGENT: Critically Low Stock!
+Sheffield Parts Co. - TERP,"Contactor, Reversing, 12 Amp",Electrical_General,50-034606-01,CL10-07-07,77.35,1.0,1.0,1.0,URGENT: Critically Low Stock!
+Sheffield Parts Co. - TERP,"Diode Rectifier, 660kW, Air Cld, Al Encl",Generator,10-003030-02,CL16-02-02A,2441.57,1.0,1.0,1.0,URGENT: Critically Low Stock!
+Sheffield Parts Co. - TERP,Disconnect Switch with Auxiliary Blocks,Hub_Rotor,20-011230-01,CL19-04-15,597.86,1.0,1.0,1.0,URGENT: Critically Low Stock!
+Sheffield Parts Co. - TERP,Electromagnetic Contactor,Electrical_General,50-144629-01,CL10-07-08,71.66,1.0,1.0,1.0,URGENT: Critically Low Stock!
+Sheffield Parts Co. - TERP,"ENCODER, INTERMEDIATE SPEED SHAFT, BEI",Gearbox,20-058406-01,CL15-06-08,605.47,1.0,2.0,2.0,URGENT: Critically Low Stock!
+Sheffield Parts Co. - TERP,"ETHERNET MULTIMODE RING SWITCH, 5-PORT",DTA,SLX-6RS-4ST-D1,CL13-04-05A,220.46,1.0,1.0,1.0,URGENT: Critically Low Stock!
+Sheffield Parts Co. - TERP,"External Over Speed Relay, EOS",TCU_Control,50-002227-01,CL21-05-11,607.01,1.0,1.0,1.0,URGENT: Critically Low Stock!
+Sheffield Parts Co. - TERP,"External Shunt Resistor, R1, MLS T6 PCS",Hub_Rotor,20-002030-01,CL19-04-85,183.90,1.0,1.0,1.0,URGENT: Critically Low Stock!
+Sheffield Parts Co. - TERP,"Filter Element, Spin-On, 147mm",Filters,50-012929-01,CN03-03-03,68.21,1.0,4.0,2.0,URGENT: Critically Low Stock!
+Sheffield Parts Co. - TERP,"Filter Head, Gearbox Lube, No Bypass",Gearbox,50-141641-01,CL15-08-19,93.79,1.0,2.0,1.0,URGENT: Critically Low Stock!
+Sheffield Parts Co. - TERP,"Gauge, Pressure, Liquid Filled, 0-600PSI",HPU,50-012902-01,CL18-04-33,27.24,1.0,1.0,1.0,URGENT: Critically Low Stock!
+Sheffield Parts Co. - TERP,"Guard, For CLE2L2 Fan, Stran PDP",PDP,50-125588-01,CL22-04-46,8.63,1.0,1.0,1.0,URGENT: Critically Low Stock!
+Sheffield Parts Co. - TERP,"Hatch, 24"" x 24"", High Profile Extruded",Nacelle,50-015609-02,CL20-08-01A,152.87,1.0,2.0,2.0,URGENT: Critically Low Stock!
+Sheffield Parts Co. - TERP,Heater 800W with Fan,DTA,50-034677-01,CL13-02-91,149.17,1.0,1.0,1.0,URGENT: Critically Low Stock!
+Sheffield Parts Co. - TERP,"High Speed Cartridge Assembly, Flex 65mm",Gearbox,10-135383-02,CL15-03-02A,15599.33,1.0,1.0,1.0,URGENT: Critically Low Stock!
+Sheffield Parts Co. - TERP,"Hose Line, HPU to YB3P",HPU,20-010722-02,CL18-02-04A,26.07,1.0,2.0,2.0,URGENT: Critically Low Stock!
+Sheffield Parts Co. - TERP,Hygrostat One Contact,DTA,50-034680-01,CL13-02-92,103.75,1.0,1.0,1.0,URGENT: Critically Low Stock!
+Sheffield Parts Co. - TERP,"Limit Switch Actuator, SS Rod, 1/16""dia",Tower,50-004056-01,CL23-06-05,3.60,1.0,1.0,1.0,URGENT: Critically Low Stock!
+Sheffield Parts Co. - TERP,"Limit Switch, Wobble",Tower,50-005200-01,CL23-06-06,28.69,1.0,1.0,1.0,URGENT: Critically Low Stock!
+Sheffield Parts Co. - TERP,"MCCB, 25 Amp",TCU_Control,50-034630-01,CL21-05-62,47.77,1.0,1.0,1.0,URGENT: Critically Low Stock!
+Sheffield Parts Co. - TERP,"Nacelle Hatch, Riser Arm Assy Left",Nacelle,50-302771-01,CL20-08-02,55.24,1.0,2.0,2.0,URGENT: Critically Low Stock!
+Sheffield Parts Co. - TERP,"Nacelle Hatch, Riser Arm Assy Right",Nacelle,50-302772-01,CL20-08-03,55.22,1.0,2.0,2.0,URGENT: Critically Low Stock!
+Sheffield Parts Co. - TERP,"Nacelle Inlet Fan, Baldor Motor",Nacelle,50-130465-01,CL20-05-12,690.46,1.0,3.0,2.0,URGENT: Critically Low Stock!
+Sheffield Parts Co. - TERP,"Panel, Lexan, #3, Shark Meter, Stran PDP",PDP,50-125574-01,CL22-03-06,379.75,1.0,1.0,1.0,URGENT: Critically Low Stock!
+Sheffield Parts Co. - TERP,"Panel, Lexan, #4, Stran PDP",PDP,50-125573-01,CL22-03-05,279.64,1.0,1.0,1.0,URGENT: Critically Low Stock!
+Sheffield Parts Co. - TERP,"Panel, Lexan, #5, Stran PDP",PDP,50-125570-01,CL22-03-04,50.21,1.0,1.0,1.0,URGENT: Critically Low Stock!
+Sheffield Parts Co. - TERP,"Panel, Lexan, Set #1 and #2, Stran PDP",PDP,50-125575-01,CL22-03-07,307.25,1.0,1.0,1.0,URGENT: Critically Low Stock!
+Sheffield Parts Co. - TERP,"PCB ASSEMBLY, ESS, MLS ELECTROSYSTEM",Hub_Rotor,10-011188-01,CL19-04-05,2112.68,1.0,2.0,2.0,URGENT: Critically Low Stock!
+Sheffield Parts Co. - TERP,"PCB ASSEMBLY, SPA, MLS ELECTROSYSTEM",Hub_Rotor,10-011187-01,CL19-04-04,8320.70,1.0,1.0,1.0,URGENT: Critically Low Stock!
+Sheffield Parts Co. - TERP,"PCB ASY, TCU, Turbine Control Unit",TCU_Control,10-002218-02,CL21-05-02A,661.95,1.0,2.0,1.0,URGENT: Critically Low Stock!
+Sheffield Parts Co. - TERP,POSITION FEEDBACK TRANSDUCER,Hub_Rotor,50-011193-02,CL19-04-53A,1505.09,1.0,2.0,2.0,URGENT: Critically Low Stock!
+Sheffield Parts Co. - TERP,"Pushbutton, ESTOP, 800T",Nacelle,50-034603-01,CL20-09-07,21.26,1.0,1.0,1.0,URGENT: Critically Low Stock!
+Sheffield Parts Co. - TERP,"Sensor, PT100, Temperature, HPU / Minco",HPU,50-002274-01,CL18-03-09,61.16,1.0,2.0,2.0,URGENT: Critically Low Stock!
+Sheffield Parts Co. - TERP,"Solenoid Valve, DTDA-MCN Cartridge",HPU,50-002633-01,CL18-03-29,34.58,1.0,1.0,1.0,URGENT: Critically Low Stock!
+Sheffield Parts Co. - TERP,"Solid State Relay, 12A, 200VDC",DTA,50-010278-01,CL13-02-65,50.45,1.0,4.0,2.0,URGENT: Critically Low Stock!
+Sheffield Parts Co. - TERP,"Support, Bus Bar, Fiberglass, Stran PDP",PDP,50-125581-01,CL22-03-11,46.61,1.0,1.0,1.0,URGENT: Critically Low Stock!
+Sheffield Parts Co. - TERP,"Support, Incoming Bus, Stran PDP",PDP,50-125584-01,CL22-03-13,95.73,1.0,1.0,1.0,URGENT: Critically Low Stock!
+Sheffield Parts Co. - TERP,"VFD, Harrington 2 Ton Jib Hoist, 60 Hz",Nacelle,50-144619-01,CL20-03-19,1934.71,1.0,1.0,1.0,URGENT: Critically Low Stock!
+Sheffield Parts Co. - TERP,"Wire, 14AWG, Black, 600V, Flex St Cu",Electrical_General,50-004300-01,CL11-03-04,0.07,1.0,76.0,76.0,URGENT: Critically Low Stock!
+Sheffield Parts Co. - TERP,"Wire, 14AWG, White, 600V, Flex St Cu",Electrical_General,50-004301-01,CL11-03-05,0.12,1.0,76.0,76.0,URGENT: Critically Low Stock!
+Sheffield Parts Co. - TERP,"50PSI Switch, HPU PS7 Filter",HPU,50-010852-02,CL18-03-17A,40.57,2.0,2.0,2.0,URGENT: Critically Low Stock!
+Sheffield Parts Co. - TERP,"Bellows Coupling, SlipRing-Encoder",Hub_Rotor,50-004975-01,CL19-09-09,69.85,2.0,3.0,2.0,URGENT: Critically Low Stock!
+Sheffield Parts Co. - TERP,"Cbl Hrnss, Motor Armature, Blade 1, Rev 1",Hub_Rotor,20-011281-02,CL19-04-31A,102.65,2.0,3.0,2.0,URGENT: Critically Low Stock!
+Sheffield Parts Co. - TERP,"Cbl Hrnss, Motor Armature, Blade 2, Rev1",Hub_Rotor,20-011292-02,CL19-04-34A,40.59,2.0,2.0,2.0,URGENT: Critically Low Stock!
+Sheffield Parts Co. - TERP,"Dirty Filter Switch, 3 Wire, 50PSI, 24V",Gearbox,20-172235-01,CL15-06-20,62.72,2.0,2.0,2.0,URGENT: Critically Low Stock!
+Sheffield Parts Co. - TERP,"Fitting, FJIC Cap Size -24",Gearbox,50-018554-01,CL15-04-03,3.21,2.0,2.0,2.0,URGENT: Critically Low Stock!
+Sheffield Parts Co. - TERP,"Fitting, FJIC Plug, Size -24",Hardware_General,50-142892-01,CL08-03-05,4.54,2.0,2.0,2.0,URGENT: Critically Low Stock!
+Sheffield Parts Co. - TERP,"Fuse Holder, 3 Pole, Size 22 x 58",DTA,50-137416-01,CL13-02-79,68.11,2.0,5.0,5.0,URGENT: Critically Low Stock!
+Sheffield Parts Co. - TERP,"Fuse, 60A Class G",Hub_Rotor,50-011199-01,CL19-04-76,21.23,2.0,5.0,5.0,URGENT: Critically Low Stock!
+Sheffield Parts Co. - TERP,"Hose Line, YB3P to YB4P",HPU,20-010724-02,CL18-02-06A,19.83,2.0,2.0,2.0,URGENT: Critically Low Stock!
+Sheffield Parts Co. - TERP,"HPU Motor, 1 HP, 1200 RPM, TEFC",HPU,50-191599-01,CL18-05-03,1839.94,2.0,3.0,2.0,URGENT: Critically Low Stock!
+Sheffield Parts Co. - TERP,"Limit Switch, Side Rotary",Tower,50-002153-01,CL23-06-01,106.64,2.0,3.0,3.0,URGENT: Critically Low Stock!
+Sheffield Parts Co. - TERP,"Seal, JIC Fitting, Size -32",Gearbox,50-148825-01,CL15-08-21,3.49,2.0,2.0,2.0,URGENT: Critically Low Stock!
+Sheffield Parts Co. - TERP,Service Tee (fitting),Gearbox_Misc,MP-FP-FPT-4,CL15-08-34,0.62,2.0,2.0,2.0,URGENT: Critically Low Stock!
+Sheffield Parts Co. - TERP,"Slip Ring, Low Speed Shaft, TCU-PCU",Hub_Rotor,10-002043-04,CL19-09-01C,10140.00,2.0,2.0,2.0,URGENT: Critically Low Stock!
+Sheffield Parts Co. - TERP,"Solid State Relay, 10 amp, 240VDC",DTA,50-010279-01,CL13-02-66,46.56,2.0,3.0,3.0,URGENT: Critically Low Stock!
+Sheffield Parts Co. - TERP,"SPD STRIKESORB 80-D, 400Vn, 200kA SURGE",PDP,50-125546-01,CL22-04-44,327.62,2.0,2.0,2.0,URGENT: Critically Low Stock!
+Sheffield Parts Co. - TERP,"Wire, 12AWG, Black, 600V, Flex St Cu",Electrical_General,50-004297-01,CL11-03-02,0.06,2.0,76.0,76.0,URGENT: Critically Low Stock!
+Sheffield Parts Co. - TERP,"Wire, 12AWG, Grn/Ylw, 600V Flex St Cu",Electrical_General,50-004299-01,CL11-03-03,0.08,2.0,76.0,76.0,URGENT: Critically Low Stock!
+Sheffield Parts Co. - TERP,"Wire, 20AWG, Black, 600V, Flex St Cu",Wire,50-012769-01,CL11-03-29,0.02,2.0,76.0,76.0,URGENT: Critically Low Stock!
+Sheffield Parts Co. - TERP,"AC Line Filter Capacitor,3x24.8uF,800V",DTA,50-303102-01,CL13-02-75,432.38,3.0,4.0,2.0,Warning: Stock is Low
+Sheffield Parts Co. - TERP,"FILTER INSERT, BG 15/25",Filters,50-009320-01,CN03-02-04,229.37,3.0,4.0,2.0,Warning: Stock is Low
+Sheffield Parts Co. - TERP,"Bulkhead Connector Asy, Emergency Power",Hub_Rotor,10-011179-01,CL19-02-02,57.77,3.0,3.0,3.0,URGENT: Critically Low Stock!
+Sheffield Parts Co. - TERP,"Grease Bucket, Fuchs Gleitmo 585K",Grease_Solvent,50-303770-01,CN04-03-05,5.61,3.0,70.0,35.0,URGENT: Critically Low Stock!
+Sheffield Parts Co. - TERP,"Pitch Drive, Blower",Hub_Rotor,20-302501-01,CL19-07-04,771.07,3.0,5.0,3.0,URGENT: Critically Low Stock!
+Sheffield Parts Co. - TERP,"Relay, 3 Pole, 10A, 110VAC, Stran PDP",PDP,50-125648-01,CL22-04-51,11.05,3.0,3.0,3.0,URGENT: Critically Low Stock!
+Sheffield Parts Co. - TERP,"XFMR, 4:1, 400VPRI 100V, SEC, Stran PDP",PDP,50-125643-01,CL22-04-22,505.27,3.0,3.0,3.0,URGENT: Critically Low Stock!
+Sheffield Parts Co. - TERP,"Contactor, Non-Reversing, 12 Amp",Electrical_General,50-034605-01,CL10-07-05,91.15,4.0,5.0,3.0,Warning: Stock is Low
+Sheffield Parts Co. - TERP,"Contactor, 3-Phase, 24VDC coil, 1NC Aux",TCU_Control,50-002232-01,CL21-05-13,56.89,4.0,4.0,4.0,URGENT: Critically Low Stock!
+Sheffield Parts Co. - TERP,"EPU Upgrade kit, 0.75A 3AG 250V FUSE, WD",Hub_Rotor,20-190803-01,CL19-01-12,0.28,4.0,10.0,10.0,URGENT: Critically Low Stock!
+Sheffield Parts Co. - TERP,"Fan, 525 CFM, 60Hz, 61W, 0.5A, Stran PDP",PDP,50-125587-01,CL22-04-45,107.99,4.0,4.0,4.0,URGENT: Critically Low Stock!
+Sheffield Parts Co. - TERP,"Fitting, Cap, #8 ORS Cap Nut",Hardware_General,50-017283-01,CL08-03-02,2.28,4.0,4.0,4.0,URGENT: Critically Low Stock!
+Sheffield Parts Co. - TERP,"Fitting, ORFS, Plug, #8",Hardware_General,50-142894-01,CL08-03-06,2.25,4.0,4.0,4.0,URGENT: Critically Low Stock!
+Sheffield Parts Co. - TERP,"Fuse, Time Delay, 100A, 600V AC, 500V DC",PDP,0,CL22-04-54,11.29,4.0,6.0,4.0,URGENT: Critically Low Stock!
+Sheffield Parts Co. - TERP,"Fuse, 10A, SB Ceramic, MLS BCM F7",Hub_Rotor,50-011262-01,CL19-01-21,0.95,5.0,10.0,5.0,URGENT: Critically Low Stock!
+Sheffield Parts Co. - TERP,10 MICRON FILTER ELEMENT,Filters,50-005054-03,CN03-02-03B,146.38,6.0,17.0,4.0,Warning: Stock is Low
+Sheffield Parts Co. - TERP,"SHCS, M16X260, GR 12.9, BlOx",Tower,50-066411-01,CL23-05-07,5.39,6.0,12.0,6.0,URGENT: Critically Low Stock!
+Sheffield Parts Co. - TERP,"Fuse link, 63 amp, Ferraz, aM, 690 VAC",DTA,50-164582-01,CL13-02-78,9.82,7.0,15.0,10.0,URGENT: Critically Low Stock!
+Sheffield Parts Co. - TERP,"Fuse, Low Peak, 50 Amp",Hub_Rotor,50-012380-01,CL19-01-20,79.07,7.0,10.0,10.0,URGENT: Critically Low Stock!
+Sheffield Parts Co. - TERP,"Sikaflex, White",Adhesive,50-003176-02,CN01-03-01A,9.02,8.0,12.0,12.0,URGENT: Critically Low Stock!
+Sheffield Parts Co. - TERP,"U-Clamp, 22-28mm Range, C-Channel Mount",Hardware_General,50-005043-01,CL08-09-01,0.86,12.0,25.0,25.0,URGENT: Critically Low Stock!
+Sheffield Parts Co. - TERP,"Radial Shaft Seal, 55x75x8",Gearbox,50-039535-01,CL15-03-05,2.50,15.0,15.0,15.0,URGENT: Critically Low Stock!
+Sheffield Parts Co. - TERP,"Time Delay Fuse, 10 amp, 600 volt",PDP,50-010282-01,CL22-04-23,2.46,16.0,20.0,20.0,URGENT: Critically Low Stock!
+Sheffield Parts Co. - TERP,"Mobilith Grease, SHC 220",Grease_Solvent,50-076330-01,CN04-03-04,28.51,17.0,3900.0,1950.0,URGENT: Critically Low Stock!
+Sheffield Parts Co. - TERP,"Adapter, Size #6, ORS Cap",Hardware_General,50-014074-01,CL08-13-04,0.52,18.0,18.0,18.0,URGENT: Critically Low Stock!
